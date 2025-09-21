@@ -6,6 +6,7 @@ This repository documents my **two-year, structured self-study in Medical Physic
 I am pivoting from 15+ years as a Physics Teacher into **Medical Physics** with the goal of becoming job-ready for the **NHS Scientist Training Programme (STP)**, MSc/PhD entry, or Assistant Physicist/Technologist roles.
 
 <!--PROGRESS_BADGES_START-->
+![Weeks Completed](https://img.shields.io/badge/Weeks_Completed-0%2F104-blue) ![Artifacts Completed](https://img.shields.io/badge/Artifacts_Completed-0%2F7-informational) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-0%25-brightgreen)
 <!--PROGRESS_BADGES_END-->
 
 ---
