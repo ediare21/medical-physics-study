@@ -1,0 +1,24 @@
+# 🩻 Diagnostic Radiology
+
+This folder contains **notes, tools, and portfolio artifacts** related to Diagnostic Radiology.
+
+## Contents
+- **CT Dose Calculations**  
+  Spreadsheets and tools for estimating Dose Length Product (DLP) and Effective Dose using scanner-reported CTDIvol and body-region conversion factors (adult & pediatric).  
+
+- **Imaging Physics Notes**  
+  Summaries of X-ray production, image quality factors, contrast, resolution, dose optimisation.  
+
+- **Practical Exercises**  
+  Worksheets, image analysis examples (e.g., using DICOM datasets and Python tools like `pydicom`, `SimpleITK`).  
+
+- **Portfolio Artifacts**  
+  Case studies, dose optimisation reports, QA checklists — aligned with STP/NHS/IPEM competencies.
+
+## Current Files
+- `CT_Dose_Calculator_Adult_Peds_Report.xlsx`  
+  Interactive Excel calculator with dropdowns for body region and age group, auto k-factor lookup, and printable one-page report.  
+
+---
+
+> ⚠️ **Note**: All resources here are for **educational and self-study purposes only**. They should not be used for clinical decision-making.
