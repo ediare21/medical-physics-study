@@ -28,3 +28,14 @@ I am pivoting from 15+ years as a Physics Teacher into **Medical Physics** with 
 ---
 
 ## 📂 Repository Layout
+
+<!--ARTIFACTS_START-->
+- [ ] CT dose optimisation spreadsheet + case study
+- [ ] MRI contrast simulation & artifact gallery
+- [ ] Ultrasound QA phantom checklist
+- [ ] Nuclear medicine MIRD dose calculation
+- [ ] Radiotherapy PDD & MU worksheet + QA checklist
+- [ ] DICOM parsing & anonymisation tool (Python)
+- [ ] Regulatory reflection on IR(ME)R & HCPC standards
+<!--ARTIFACTS_END-->
+
